@@ -54,7 +54,7 @@ class _UserFormState extends State<UserForm> {
                 Navigator.of(context).pop();
               }
             },
-          )
+          ),
         ],
       ),
       body: Padding(
